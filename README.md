@@ -2,7 +2,7 @@
 
 ## How to install
 
-Install manually the latest build by pasting this manifest url: 
+Install manually the latest build by pasting this manifest url: https://github.com/Jordan-Abacus/just-a-bunch-of-old-school-maps/releases/latest/download/module.json
 
 ![alt text](image.png)
 
