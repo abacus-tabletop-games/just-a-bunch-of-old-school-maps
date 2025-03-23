@@ -1,0 +1,8 @@
+2025/03/23-18:21:45.081 7a05c Recovering log #20
+2025/03/23-18:21:45.111 7a05c Delete type=0 #20
+2025/03/23-18:21:45.111 7a05c Delete type=3 #18
+2025/03/23-18:24:42.921 7981c Level-0 table #25: started
+2025/03/23-18:24:42.921 7981c Level-0 table #25: 0 bytes OK
+2025/03/23-18:24:42.937 7981c Delete type=0 #23
+2025/03/23-18:24:42.954 7981c Manual compaction at level-0 from '!tables!rxsQQbusWjedTzbB' @ 72057594037927935 : 1 .. '!tables.results!rxsQQbusWjedTzbB.gbHU1Nn7ZFZTWS7Q' @ 0 : 0; will stop at (end)
+2025/03/23-18:24:42.954 7981c Manual compaction at level-1 from '!tables!rxsQQbusWjedTzbB' @ 72057594037927935 : 1 .. '!tables.results!rxsQQbusWjedTzbB.gbHU1Nn7ZFZTWS7Q' @ 0 : 0; will stop at (end)

@@ -1,0 +1,74 @@
+{
+  "id": "just-a-bunch-of-old-school-maps",
+  "title": "Just A Bunch of Old-School Maps",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "12",
+    "verified": "12"
+  },
+  "description": "A bunch of simple, ready-to-use old-school scenes.",
+  "authors": [
+    {
+      "name": "Jordan",
+      "email": "abacus.tabletop.games@gmail.com",
+      "url": "https://abacustabletopgames.bearblog.dev/",
+      "flags": {}
+    }
+  ],
+  "packs": [
+    {
+      "name": "scenes",
+      "label": "Scenes (maps) only",
+      "path": "packs/scenes",
+      "type": "Scene",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "journals",
+      "label": "Journals only",
+      "path": "packs/journals",
+      "type": "JournalEntry",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "maps--notes",
+      "label": "Adventures",
+      "path": "packs/maps--notes",
+      "type": "Adventure",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "random-adventure",
+      "label": "Random Adventure",
+      "path": "packs/random-adventure",
+      "type": "RollTable",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    }
+  ],
+  "relationships": {
+    "recommends": [
+      {
+        "id": "journal-icon-numbers",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "old-school-map-symbols",
+        "type": "module",
+        "compatibility": {}
+      }
+    ]
+  }
+}
