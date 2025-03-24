@@ -1,7 +1,7 @@
 {
   "id": "just-a-bunch-of-old-school-maps",
   "title": "Just A Bunch of Old-School Maps",
-  "version": "1.0.0",
+  "version": "0.5.1",
   "compatibility": {
     "minimum": "12",
     "verified": "12"
@@ -22,7 +22,7 @@
       "path": "packs/scenes",
       "type": "Scene",
       "ownership": {
-        "PLAYER": "OBSERVER",
+        "PLAYER": "NONE",
         "ASSISTANT": "OWNER"
       }
     },
@@ -32,7 +32,7 @@
       "path": "packs/journals",
       "type": "JournalEntry",
       "ownership": {
-        "PLAYER": "OBSERVER",
+        "PLAYER": "NONE",
         "ASSISTANT": "OWNER"
       }
     },
@@ -42,7 +42,7 @@
       "path": "packs/maps--notes",
       "type": "Adventure",
       "ownership": {
-        "PLAYER": "OBSERVER",
+        "PLAYER": "NONE",
         "ASSISTANT": "OWNER"
       }
     },
@@ -52,7 +52,7 @@
       "path": "packs/random-adventure",
       "type": "RollTable",
       "ownership": {
-        "PLAYER": "OBSERVER",
+        "PLAYER": "NONE",
         "ASSISTANT": "OWNER"
       }
     }
@@ -72,6 +72,6 @@
     ]
   },
   "url": "https://github.com/Jordan-Abacus/just-a-bunch-of-old-school-maps",
-  "manifest": "https://github.com/Jordan-Abacus/just-a-bunch-of-old-school-maps/releases/download/0.5.0/module.json",
-  "download":  "https://github.com/Jordan-Abacus/just-a-bunch-of-old-school-maps/releases/download/0.5.0/just-a-bunch-of-old-school-maps.zip" 
+  "manifest": "https://github.com/Jordan-Abacus/just-a-bunch-of-old-school-maps/releases/download/0.5.1/module.json",
+  "download":  "https://github.com/Jordan-Abacus/just-a-bunch-of-old-school-maps/releases/download/0.5.1/just-a-bunch-of-old-school-maps.zip" 
 }
