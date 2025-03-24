@@ -1,7 +1,7 @@
 {
   "id": "just-a-bunch-of-old-school-maps",
   "title": "Just A Bunch of Old-School Maps",
-  "version": "0.5.1",
+  "version": "1.0.1",
   "compatibility": {
     "minimum": "12",
     "verified": "12"
@@ -72,6 +72,6 @@
     ]
   },
   "url": "https://github.com/Jordan-Abacus/just-a-bunch-of-old-school-maps",
-  "manifest": "https://github.com/Jordan-Abacus/just-a-bunch-of-old-school-maps/releases/download/0.5.1/module.json",
-  "download":  "https://github.com/Jordan-Abacus/just-a-bunch-of-old-school-maps/releases/download/0.5.1/just-a-bunch-of-old-school-maps.zip" 
+  "manifest": "https://github.com/Jordan-Abacus/just-a-bunch-of-old-school-maps/releases/download/1.0.1/module.json",
+  "download":  "https://github.com/Jordan-Abacus/just-a-bunch-of-old-school-maps/releases/download/1.0.1/just-a-bunch-of-old-school-maps.zip" 
 }
