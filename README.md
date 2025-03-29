@@ -30,6 +30,6 @@ Jordan — [Abacus Tabletop Games](https://abacustabletopgames.bearblog.dev/)
 
 * The maps were generated using [Watabou's Procgen Arcana](https://watabou.github.io/index.html).
 
-You can find my stuff on my [website](https://abacustabletopgames.bearblog.dev/). If you just want to pay me a coffee, I thank you!
+You can find my stuff on my [website](https://abacustabletopgames.bearblog.dev/). If you just want to [pay me a coffee](tab:https://ko-fi.com/abacus_tabletop_games), I thank you!
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/A0A41CCI2J)
