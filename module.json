@@ -71,7 +71,7 @@
       }
     ]
   },
-  "url": "https://github.com/Jordan-Abacus/just-a-bunch-of-old-school-maps",
-  "manifest": "https://github.com/Jordan-Abacus/just-a-bunch-of-old-school-maps/releases/download/1.0.1/module.json",
-  "download":  "https://github.com/Jordan-Abacus/just-a-bunch-of-old-school-maps/releases/download/1.0.1/just-a-bunch-of-old-school-maps.zip" 
+  "url": "https://github.com/abacus-tabletop-games/just-a-bunch-of-old-school-maps",
+  "manifest": "https://github.com/abacus-tabletop-games/just-a-bunch-of-old-school-maps/releases/download/1.0.1/module.json",
+  "download":  "https://github.com/abacus-tabletop-games/just-a-bunch-of-old-school-maps/releases/download/1.0.1/just-a-bunch-of-old-school-maps.zip" 
 }
